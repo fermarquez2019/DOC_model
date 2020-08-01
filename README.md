@@ -1,4 +1,4 @@
-# Aplicación del aprendizaje automático para predecir la recuperación de pacientes con desórdenes prolongados de conciencia: reporte preliminar
+## Aplicación del aprendizaje automático para predecir la recuperación de pacientes con desórdenes prolongados de conciencia: reporte preliminar
 
 Márquez Fernando **1,2**,  Rivas María Elisa **2**, Grinberg Matías **3**, Jarmoluk Verónica **2**,
 Bonamico Lucas **1**, Ron Melania **4**, Russo María Julieta **1**, Olmos Lisandro **1**.
